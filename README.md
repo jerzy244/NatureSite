@@ -1,10 +1,10 @@
 # NatureSite
 
-## Opis
-Prosta strona główna strony o naturze z miejscem na logowanie użytkownika.
-Głównie skupia się na implementacji wizualnej CSS Flexbox.
+## Overview
+Simple homepage for site related to nature, with user logging box.
+Mainly focused on visualy implementing CSS Flexbox.
 
-## Technologie
+## Technologies
 * HTML
 * CSS
 * JavaScript
